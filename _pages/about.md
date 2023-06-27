@@ -29,7 +29,7 @@ My research interests lie in the intersection between learning-driven optimal co
 <br>
 <br>
 My Ph.D. project, supervised by 
-<a href='https://www.unibo.it/sitoweb/giuseppe.notarstefano/en'>Professor Giuseppe Notarstefano</a>, looks at innovative optimal control strategies for complex systems. Specifically, I follow two main research paths: (i) optimal control for unknown/uncertain systems and reinforcement learning , (ii) design of distributed optimal control algorithms in multi-robot scenarios.
+<a href='https://www.unibo.it/sitoweb/giuseppe.notarstefano/en'>Professor Giuseppe Notarstefano</a>, looks at innovative optimal control strategies for complex systems. Specifically, I follow two main research paths: (i) optimal control for unknown/uncertain systems and reinforcement learning, (ii) design of distributed optimal control algorithms in multi-robot scenarios.
 <br>
 <br>
 Currently, I am a Visiting Researcher advised by <a href='http://ames.caltech.edu'>Professor Aaron Ames</a>, at <a href='http://www.bipedalrobotics.com'>AMBER Lab</a>, Department of Mechanical and Civil Engineering, Caltech.

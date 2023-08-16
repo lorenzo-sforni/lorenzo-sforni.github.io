@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: Visiting Student Researcher @ <a href='http://www.bipedalrobotics.com'>AMBER Lab</a> - Caltech <br>Ph.D. Candidate @ <a href='https://dei.unibo.it/it/ricerca/laboratori-di-ricerca/casy'>CASY</a> - University of Bologna
 header:
-  image: assets/img/profile/cover.jpg
+  image: assets/img/profile/cover.jpeg
   caption: Me at JPL, April 2023, during my visiting period at Caltech
 profile:
   # align: right

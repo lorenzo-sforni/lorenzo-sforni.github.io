@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Visiting Student Researcher @ <a href='http://www.bipedalrobotics.com'>AMBER Lab</a> - Caltech <br>Ph.D. Candidate @ <a href='https://dei.unibo.it/it/ricerca/laboratori-di-ricerca/casy'>CASY</a> - University of Bologna
+subtitle: Ph.D. Candidate @ <a href='https://dei.unibo.it/it/ricerca/laboratori-di-ricerca/casy'>CASY</a> - University of Bologna
 header:
   image: assets/img/profile/cover.jpeg
   caption: Me at JPL, April 2023, during my visiting period at Caltech
@@ -32,7 +32,7 @@ My Ph.D. project, supervised by
 <a href='https://www.unibo.it/sitoweb/giuseppe.notarstefano/en'>Professor Giuseppe Notarstefano</a>, looks at innovative optimal control strategies for complex systems. Specifically, I follow two main research paths: (i) optimal control for unknown/uncertain systems and reinforcement learning, (ii) design of distributed optimal control algorithms in multi-robot scenarios.
 <br>
 <br>
-Currently, I am a Visiting Researcher advised by <a href='http://ames.caltech.edu'>Professor Aaron Ames</a>, at <a href='http://www.bipedalrobotics.com'>AMBER Lab</a>, Department of Mechanical and Civil Engineering, Caltech.
+From March to September 2023, I was appointed Visiting Researcher at Caltech, advised by <a href='http://ames.caltech.edu'>Professor Aaron Ames</a>, in the <a href='http://www.bipedalrobotics.com'>AMBER Lab</a>, Department of Mechanical and Civil Engineering.
 <br>
 <br>
 </div>
